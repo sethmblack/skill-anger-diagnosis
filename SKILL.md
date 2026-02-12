@@ -1,10 +1,9 @@
 ---
 name: anger-diagnosis
-description: Analyze the roots of anger and apply Seneca's comprehensive approach
-  to prevention and treatment.
+description: Analyze the roots of anger and apply Seneca's comprehensive approach to prevention and treatment.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - anger-diagnosis-and-treatment
