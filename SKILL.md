@@ -4,7 +4,7 @@ description: Analyze the roots of anger and apply Seneca's comprehensive approac
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3390
+  version: 1.0.3391
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - anger-diagnosis-and-treatment
